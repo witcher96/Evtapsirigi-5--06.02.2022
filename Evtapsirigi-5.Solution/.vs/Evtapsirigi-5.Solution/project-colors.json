@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2cafdcb0-5f4e-4730-96f0-1c77b428318d": {
+      "ProjectGuid": "2cafdcb0-5f4e-4730-96f0-1c77b428318d",
+      "DisplayName": "Evtapsirigi 5",
+      "ColorIndex": 0
+    },
+    "6168c344-5ac6-43a0-af8f-0929042fd6ab": {
+      "ProjectGuid": "6168c344-5ac6-43a0-af8f-0929042fd6ab",
+      "DisplayName": "Toolbox",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

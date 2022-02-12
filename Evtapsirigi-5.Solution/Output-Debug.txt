@@ -1,0 +1,8 @@
+﻿'Evtapsirigi 5.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Private.CoreLib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Evtapsirigi 5.exe' (CoreCLR: clrhost): Loaded 'C:\Users\predator\Desktop\Evtapsirigi-5--06.02.2022\Evtapsirigi-5.Solution\Evtapsirigi 5\bin\Debug\net5.0\Evtapsirigi 5.dll'. Symbols loaded.
+'Evtapsirigi 5.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Evtapsirigi 5.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Console.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Evtapsirigi 5.exe' (CoreCLR: clrhost): Loaded 'C:\Users\predator\Desktop\Evtapsirigi-5--06.02.2022\Evtapsirigi-5.Solution\Evtapsirigi 5\bin\Debug\net5.0\Helper.dll'. Symbols loaded.
+'Evtapsirigi 5.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Threading.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Exception thrown: 'System.FormatException' in System.Private.CoreLib.dll
+The program '[16564] Evtapsirigi 5.exe' has exited with code 0 (0x0).
